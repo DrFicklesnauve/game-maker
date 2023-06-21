@@ -1,0 +1,12 @@
+# Game Keeper Site (School Final)
+## Project Completed in 2020
+This project was the culmination of several semester's worth of learning through several classes and subjects. While this project was for one class, it was preceeded by classes in database design/development, web development, and several other foundational concepts. Things worth noting in this project are: the skills used to create the database, the overall design and site mapping of the website, and the overall team work that it takes to build a fully functional web app. 
+
+## Database Creation
+Game Keeper was the first site that I was able to use my database knowledge in a way that displayed the data within a web app. Altogether there are four tables with one table being a linking table. All ID's are auto-incrementing an foreign keys were used for tables that were linked. The database structure can be found in /Database Reqs/ as well as some insert lines that would help my group mates upload the necessary documents. Game Keeper would dynamically load the inventory on each page load and display only the available items and their quantity. 
+
+## Design & Site Mapping
+Prior to this class I have had experience in graphic design and working with brand guides so I wanted this to be exactly like a real business' website one would see out in the wild. There are specific hex codes and fonts used throughout the site that I chose to be the face of the business as well as uniform font sizes. Site mapping is pretty straight-forward and has typical header and footer links that were created as template files and utilized PHP's include(); function. 
+
+## Team Work and Project Management
+Being completely honest, this is something that I learned to appreciate only recently. At the time of this project, I had started on the project and worked tirelessly to come up with a product that I would be happy with; missing the point entirely of being put in a group I had done nearly everthing except for building three or four very basic text pages with no functionality. In the semester's after this I had learned to delegate and work collaboratively to come up with ideas for our projects and found it to be more enjoyable to work with people than domineer an entire project out of passion and pride.
